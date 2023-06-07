@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Esecuzione del programma");
 		System.out.println("Fase 1 del programma");
 		System.out.println("Fase 2 del programma");
+		System.out.println("Fase 3 del programma");
 		System.out.println("Fine del programma");
 	}
 }
